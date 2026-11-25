@@ -1,0 +1,14 @@
+{
+    "venvPath": "C:/Users/PC/miniforge3/envs",
+    "venv": "research",
+    "pythonVersion": "3.10",
+    "typeCheckingMode": "basic",
+    "reportAttributeAccessIssue": "none",
+    "reportGeneralTypeIssues": "none",
+    "reportCallIssue": "none",
+    "reportOperatorIssue": "none",
+    "reportOptionalOperand": "none",
+    "reportOptionalSubscript": "none",
+    "reportArgumentType": "none",
+    "reportIndexIssue": "none"
+}
